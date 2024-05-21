@@ -1,4 +1,4 @@
-# SampleFile
+#  Send Message to RabbitMq
 This Project is Sample project which will be used by .Netcore microservices  for sharing Messages using Rabbitmq .
 In this We are using below Classes .
 Program.cs :   this class is entry point/starting point of project
